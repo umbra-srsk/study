@@ -1,0 +1,13 @@
+git init			초기화
+git remote ~~ 		로컬과 깃허브 연결   -> https ssh 확인
+git add .			로컬에서 깃에 올릴 것들
+git status 		확인
+git commit -m ""		올릴 것 메시지 남기는 것
+git config --list		git 내 계정 닉네임 확인
+git config --global user.name ""	이름변경
+git config --global user.email ""	이메일 변경
+git branch -M main		
+git push -u origin master 	
+
+
+git clone 레포지토리주소	깃허브에서 다운
